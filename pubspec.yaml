@@ -1,0 +1,23 @@
+name: tienda_talavera
+description: Tienda móvil de artesanías de Talavera de Dolores Hidalgo con carrito, perfil y visor 3D/AR.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  model_viewer_plus: ^1.9.3
+  shared_preferences: ^2.3.0
+  flutter_secure_storage: ^9.2.2
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

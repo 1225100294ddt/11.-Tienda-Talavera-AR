@@ -1,0 +1,12 @@
+ACTIVIDAD 11 - TIENDA DE TALAVERA AR
+Proyecto Flutter fuente incluido en esta carpeta.
+
+Para abrir:
+1) Instala Flutter SDK.
+2) Abre esta carpeta en Visual Studio Code.
+3) En la terminal ejecuta: flutter create .
+4) Ejecuta: flutter pub get
+5) Ejecuta: flutter test
+6) Ejecuta: flutter run
+
+La pasarela de pago y el perfil son simulados. Consulta README.md.

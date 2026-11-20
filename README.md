@@ -19,5 +19,9 @@ La pasarela es **simulada** y nunca cobra dinero real. Para probar una compra ap
 
 El checkout solicita calle, colonia, código postal y teléfono. Inicia sesión primero desde la pestaña Perfil.
 
+<img width="714" height="359" alt="image" src="https://github.com/user-attachments/assets/e131c1e2-17d3-4d5d-8e8a-4cb4d6b96d34" />
+<img width="1320" height="656" alt="image" src="https://github.com/user-attachments/assets/a5972ee5-2783-496f-bb6f-a4d20fe7a45b" />
+
+
 
 

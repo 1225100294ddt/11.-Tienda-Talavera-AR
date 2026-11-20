@@ -18,5 +18,6 @@ La pasarela es **simulada** y nunca cobra dinero real. Para probar una compra ap
 - Teléfono: cualquier número de 10 dígitos
 
 El checkout solicita calle, colonia, código postal y teléfono. Inicia sesión primero desde la pestaña Perfil.
+<img width="3840" height="2160" alt="133832879723769121" src="https://github.com/user-attachments/assets/0668b06f-24fc-4759-af68-569e060475e2" />
 
 
